@@ -1,0 +1,43 @@
+Learning Standard: CCSS.ELA-LITERACY.W.11-12.6 - 'Use technology, including the Internet, to produce, publish, and update individual or shared writing products in response to ongoing feedback, including new arguments or information.'
+Topic of Interest: ancient civilizations
+
+Generated Question: Introduction and Context:
+
+Imagine you are a historian who has been studying ancient civilizations for many years. You have been working on a research paper about the contributions of these civilizations to modern society. You have already published your initial findings online and have received feedback from your peers and other historians around the world. They have provided you with new arguments and information that you hadn't considered before. You have also found new sources on the internet that have shed light on some aspects of your research. Now, you need to update your research paper based on this ongoing feedback and new information.
+
+Question:
+
+Using the feedback you have received and the new information you have found, how would you revise your research paper? Please describe the changes you would make in detail. Also, explain how you would use technology, including the Internet, to produce, publish, and update your paper. Remember, your goal is to create a comprehensive and accurate representation of the contributions of ancient civilizations to modern society.
+Generated Rubric: Rubric format:
+
+Criteria: Use of Technology for Production and Publication
+
+Level 4: Demonstrates excellent use of technology, including the Internet, to produce, publish, and update the research paper. Incorporates ongoing feedback and new information effectively.
+
+Level 3: Demonstrates good use of technology, including the Internet, to produce, publish, and update the research paper. Incorporates most of the ongoing feedback and new information.
+
+Level 2: Demonstrates fair use of technology, including the Internet, to produce, publish, and update the research paper. Incorporates some of the ongoing feedback and new information.
+
+Level 1: Demonstrates poor use of technology, including the Internet, to produce, publish, and update the research paper. Incorporates little to none of the ongoing feedback and new information.
+
+Points: 4, 3, 2, 1
+
+Criteria: Response to Feedback and New Information
+
+Level 4: Demonstrates excellent understanding and incorporation of ongoing feedback and new information into the research paper.
+
+Level 3: Demonstrates good understanding and incorporation of ongoing feedback and new information into the research paper.
+
+Level 2: Demonstrates fair understanding and incorporation of ongoing feedback and new information into the research paper.
+
+Level 1: Demonstrates poor understanding and incorporation of ongoing feedback and new information into the research paper.
+
+Points: 4, 3, 2, 1
+
+Student's Answer (level 2): In response to the feedback and new information I have received, I would begin by revising the sections of my research paper that have been highlighted as needing improvement. I would incorporate the new arguments and information provided by my peers and other historians, ensuring to credit them appropriately. This would involve a fair amount of rewriting and reorganizing of my paper to ensure the new information fits seamlessly into the existing content.
+
+In terms of using technology, I would utilize the Internet to access online databases and libraries to gather more in-depth information about the contributions of ancient civilizations. I would also use word processing software to produce and publish my paper. However, I might struggle with effectively using these tools to their full potential, and my ability to incorporate ongoing feedback and new information might be somewhat limited.
+
+To publish and update my paper, I would use an online platform that allows for easy editing and updating. This would enable me to make changes to my paper as and when needed, based on the ongoing feedback and new information. However, I might not be able to update my paper as frequently or as effectively as I would like due to my fair use of technology.
+
+In conclusion, while I would make an effort to revise my research paper based on the feedback and new information,

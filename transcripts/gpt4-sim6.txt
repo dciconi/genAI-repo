@@ -1,0 +1,60 @@
+Learning Standard: CCSS.ELA-LITERACY.W.9-10.1.d - 'Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing.' (Grade 9-10)'
+Topic of Interest: climate change
+
+Generated Question: Introduction and Context:
+
+Climate change is a significant and lasting change in the statistical distribution of weather patterns over periods ranging from decades to millions of years. It may be a change in average weather conditions, or in the distribution of weather around the average conditions. This can be caused by processes internal to the Earth, external forces (e.g. variations in sunlight intensity), and of course, human activities. In recent years, the term has been more commonly used to refer specifically to climate change caused by human activity, as opposed to changes in climate that may have resulted from the Earth's natural processes. This is usually referred to as global warming or anthropogenic climate change.
+
+Question:
+
+Based on the provided context, write a formal essay of about 500 words on the topic: "The Impact of Human Activities on Climate Change". In your essay, ensure you establish and maintain a formal style and objective tone. Attend to the norms and conventions of the discipline of environmental science in your writing. Your essay should include an introduction, body paragraphs where you discuss the impact of different human activities on climate change, and a conclusion where you summarize your points and suggest possible solutions.
+Generated Rubric: Criteria        Level 4        Level 3       Level 2       Level 1
+---------------------------------------------------------
+Formal Style    The essay      The essay     The essay     The essay 
+                consistently   mostly        occasionally  rarely 
+                maintains a    maintains a   maintains a   maintains a 
+                formal style   formal style  formal style  formal style
+Points          4              3             2             1
+---------------------------------------------------------
+Objective Tone  The essay      The essay     The essay     The essay 
+                consistently   mostly        occasionally  rarely 
+                maintains an   maintains an  maintains an  maintains an 
+                objective tone objective tone objective tone objective tone
+Points          4              3             2             1
+---------------------------------------------------------
+Norms and       The essay      The essay     The essay     The essay 
+Conventions     consistently   mostly        occasionally  rarely 
+of Discipline   adheres to     adheres to    adheres to    adheres to 
+                the norms and  the norms and the norms and the norms and 
+                conventions of conventions of conventions of conventions of 
+                environmental  environmental environmental environmental 
+                science        science       science       science
+Points          4              3             2             1
+---------------------------------------------------------
+Overall         The essay      The essay     The essay     The essay 
+Structure       has a clear    has a mostly  has a somewhat lacks a clear 
+                introduction,  clear         clear          introduction, 
+                body, and      introduction, introduction,  body, and 
+                conclusion     body, and     body, and      conclusion
+Points          4              3             2             1
+---------------------------------------------------------
+
+Student's Answer (level 2): Climate change, it's a term we hear often. But what does it really mean? And what role do we, as humans, play in it? In this essay, we'll explore these questions.
+
+Climate change is a shift in weather patterns over time. It can be caused by many things, but one of the main culprits is human activity. We're talking about things like burning fossil fuels, deforestation, and industrial processes. These activities release greenhouse gases into the atmosphere, which trap heat and cause the Earth's temperature to rise. This is often referred to as global warming.
+
+Now, let's talk about the impact of these activities. The burning of fossil fuels, for example, is a major contributor to climate change. When we burn coal, oil, and gas for energy, we release carbon dioxide into the atmosphere. This gas traps heat and causes the Earth's temperature to rise. As the temperature rises, it can lead to a host of problems, including more frequent and severe heatwaves, droughts, and storms.
+
+Deforestation is another big issue. Trees absorb carbon dioxide, so when we cut them down, we're not only releasing the carbon they stored, but we're also removing a valuable tool in the fight against
+
+Evaluation: Overall, your essay has earned a score of 14 out of 16. 
+
+Your formal style is consistently maintained throughout the essay, earning you a full score of 4 in that area. You've done an excellent job of using appropriate language and tone for a formal essay.
+
+In terms of maintaining an objective tone, you've mostly achieved this, earning a score of 3. There were a few instances where the tone could have been more objective, but overall, you did well in this area.
+
+When it comes to adhering to the norms and conventions of environmental science, you've done a good job. You've used appropriate terminology and demonstrated a good understanding of the topic. However, there's room for a bit more depth and complexity in your discussion of the science behind climate change. This gives you a score of 3 in this area.
+
+Finally, your essay structure is clear and well-organized, earning you a full score of 4. You have a clear introduction, body, and conclusion, and your points are logically arranged and easy to follow.
+
+For improvement, I suggest working on maintaining an even more objective tone throughout your essay. Also, try to delve a bit deeper into the scientific aspects of the topic to fully adhere to the norms and conventions of environmental science. Keep up the good work!

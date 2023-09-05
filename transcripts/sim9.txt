@@ -1,0 +1,58 @@
+Learning Standard: CCSS.ELA-LITERACY.W.7.8 - 'Gather relevant information from multiple print and digital sources, using search terms effectively; assess the credibility and accuracy of each source; and quote or paraphrase the data and conclusions of others while avoiding plagiarism and following a standard format for citation.'
+Generated Question: Introduction:
+Space exploration has always been a fascinating subject for scientists and enthusiasts alike. It involves the discovery and exploration of celestial bodies beyond Earth's atmosphere. Over the years, space exploration has provided us with valuable information about our universe, including the planets, stars, and galaxies that exist beyond our own. With advancements in technology, both print and digital sources have become essential tools for gathering information about space exploration. However, it is crucial to use effective search terms, assess the credibility and accuracy of each source, and properly cite the information to avoid plagiarism.
+
+Context:
+In recent years, there has been a growing interest in the possibility of human colonization on other planets. Scientists have been studying various celestial bodies, such as Mars, to determine their habitability and potential for sustaining human life. One such study is the research conducted by Dr. Emily Johnson, an astrophysicist at the National Space Agency (NSA). Dr. Johnson's research focuses on the potential for human colonization on Mars and the challenges that need to be overcome for successful colonization.
+
+Text:
+Read the following excerpt from an article written by Dr. Emily Johnson:
+
+"Recent advancements in space exploration have brought us closer to the possibility of human colonization on Mars. However, before we embark on such a mission, it is crucial to gather relevant information from multiple sources to assess the feasibility and potential challenges. In my research, I have analyzed data from various space missions, including the Mars Rover, to understand the conditions on Mars and determine its habitability for humans. It is essential to use effective search terms when gathering information and assess the credibility and accuracy of each source. Additionally, when quoting or paraphrasing the data and conclusions of others, it is important to avoid plagiarism and follow a standard format for citation."
+
+Question:
+Based on the information provided by Dr. Emily Johnson, explain how you would gather relevant information from multiple print and digital sources, assess their credibility and accuracy, and quote or paraphrase the data and conclusions of others while avoiding plagiarism and following a standard format for citation.
+Generated Rubric: Criteria        Level 4                                      Level 3                                      Level 2                                      Level 1
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gathering       The answer demonstrates a thorough         The answer demonstrates an adequate       The answer demonstrates a limited        The answer demonstrates minimal
+Information     understanding of how to gather relevant    understanding of how to gather relevant    understanding of how to gather relevant   understanding of how to gather relevant
+                 information from multiple print and        information from multiple print and        information from multiple print and       information from multiple print and
+                 digital sources. Effective search terms    digital sources. Search terms are          digital sources. Search terms are         digital sources. Search terms are
+                 are used to efficiently locate             used to locate information, but may       used, but may not be as effective in      ineffective in locating relevant
+                 information.                                not always be as precise.                  locating specific information.            information.
+
+Assessing        The answer demonstrates a thorough         The answer demonstrates an adequate       The answer demonstrates a limited        The answer demonstrates minimal
+Credibility      understanding of how to assess the          understanding of how to assess the         understanding of how to assess the        understanding of how to assess the
+and Accuracy     credibility and accuracy of each source.    credibility and accuracy of each source.   credibility and accuracy of each source.  credibility and accuracy of each source.
+                 Multiple criteria are used to evaluate     Some criteria are used to evaluate the     Limited criteria are used to evaluate     Minimal criteria are used to evaluate
+                 the reliability and trustworthiness of      reliability and trustworthiness of         the reliability and trustworthiness of    the reliability and trustworthiness of
+                 sources.                                    sources.                                   sources.                                  sources.
+
+Quoting or       The answer demonstrates a thorough         The answer demonstrates an adequate       The answer demonstrates a limited        The answer demonstrates minimal
+Paraphrasing     understanding of how to quote or            understanding of how to quote or           understanding of how to quote or          understanding of how to quote or
+Data and         paraphrase the data and conclusions         paraphrase the data and conclusions        paraphrase the data and conclusions       paraphrase the data and conclusions
+Conclusions      of others while avoiding plagiarism.        of others while avoiding plagiarism.       of others while avoiding plagiarism.      of others while avoiding plagiarism.
+                 A standard format for citation is          A standard format for citation is         A standard format for citation is        A standard format for citation is
+                 consistently followed.                      followed with minor errors.                inconsistently followed.                  not followed.
+
+Points           4                                           3                                          2                                          1
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Student's Answer: To gather relevant information from multiple print and digital sources, I would start by using effective search terms related to space exploration and human colonization on Mars. These search terms would help me locate articles, research papers, and other sources that provide information on the topic. I would also make sure to use multiple sources to gather a comprehensive understanding of the subject.
+
+To assess the credibility and accuracy of each source, I would consider multiple criteria. I would evaluate the reputation and expertise of the authors or organizations behind the sources. I would also look for peer-reviewed articles or sources that have been reviewed by experts in the field. Additionally, I would check if the sources provide references or citations to support their claims and if they are up-to-date.
+
+When quoting or paraphrasing the data and conclusions of others, I would be careful to avoid plagiarism. I would use quotation marks and cite the original source when directly quoting someone. If I were to paraphrase the information, I would rephrase it in my own words while still giving credit to the original source. It is important to follow a standard format for citation, such as APA or MLA, to ensure consistency and provide proper attribution to the original authors or researchers.
+
+Evaluation: Overall Score: Level 4
+
+Feedback:
+- Gathering Information: Your answer demonstrates a thorough understanding of how to gather relevant information from multiple print and digital sources. You mention using effective search terms and utilizing multiple sources to gather a comprehensive understanding of the topic. Well done!
+- Assessing Credibility and Accuracy: Your answer shows a thorough understanding of how to assess the credibility and accuracy of each source. You mention evaluating the reputation and expertise of the authors or organizations, looking for peer-reviewed articles, and checking for references or citations. Great job!
+- Quoting or Paraphrasing Data and Conclusions: Your answer demonstrates a thorough understanding of how to quote or paraphrase the data and conclusions of others while avoiding plagiarism. You mention using quotation marks and proper citation when directly quoting, and rephrasing information in your own words while still giving credit to the original source. Excellent!
+- Formatting and Citation: Your answer mentions the importance of following a standard format for citation, but it does not specify which format to use (APA, MLA, etc.). Remember to provide specific information on the citation format to ensure consistency and proper attribution.
+
+Suggestions for Improvement:
+- Specify the citation format: When discussing the importance of following a standard format for citation, provide specific information on which format to use, such as APA or MLA. This will help ensure consistency and provide clear guidance on how to cite sources properly.
+
+Great job overall! Your answer demonstrates a thorough understanding of how to gather relevant information, assess credibility and accuracy, and quote or paraphrase data and conclusions while avoiding plagiarism. Just remember to provide specific information on the citation format for improvement. Keep up the good work!

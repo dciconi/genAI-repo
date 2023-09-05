@@ -1,0 +1,46 @@
+Learning Standard: CCSS.ELA-LITERACY.W.4.2.e - 'Provide a concluding statement or section related to the information or explanation presented.'
+Topic of Interest: wildlife conservation
+
+
+Generated Question: Introduction and Context:
+
+Wildlife conservation is a pressing issue that affects the entire planet. It involves the protection and preservation of animal species and their habitats. The primary goal of wildlife conservation is to ensure that nature will be around for future generations to enjoy and to recognize the importance of wildlife and wilderness lands to humans. Many nations have government agencies dedicated to wildlife conservation, which help to implement policies designed to protect wildlife. Numerous independent nonprofit organizations also promote various wildlife conservation causes.
+
+Wildlife conservation has become an increasingly important practice due to the negative effects of human activity on wildlife. An endangered species is defined as a population of a living species that is in danger of becoming extinct because the species has a very low or falling population, or because they are threatened by the varying environmental or prepositional parameters.
+
+Question:
+
+Based on the information provided, write a concluding statement or section that summarizes the importance of wildlife conservation and the role of various entities in preserving endangered species.
+Generated Rubric: Format:
+
+Criteria: Concluding Statement
+
+Level 4: The concluding statement effectively summarizes the importance of wildlife conservation and the role of various entities in preserving endangered species. The statement is clear, concise, and directly related to the information provided. It shows a deep understanding of the topic and presents a thoughtful reflection on the issue.
+
+Points: 4
+
+Level 3: The concluding statement summarizes the importance of wildlife conservation and the role of various entities in preserving endangered species. The statement is related to the information provided but lacks depth or detail. It shows an understanding of the topic.
+
+Points: 3
+
+Level 2: The concluding statement somewhat relates to the importance of wildlife conservation and the role of various entities in preserving endangered species. The statement is somewhat related to the information provided but lacks clarity or detail. It shows a basic understanding of the topic.
+
+Points: 2
+
+Level 1: The concluding statement does not effectively summarize the importance of wildlife conservation and the role of various entities in preserving endangered species. The statement is not clearly related to the information provided and lacks detail. It shows a limited understanding of the topic.
+
+Points: 1
+
+Student's Answer: In light of the information provided, it is evident that wildlife conservation is not merely an environmental concern, but a critical global issue that impacts the future of our planet. The preservation of animal species and their habitats is paramount to ensuring the survival of our natural world for generations to come. The role of wildlife conservation extends beyond the protection of nature, highlighting its intrinsic value to human existence. Government agencies and independent nonprofit organizations play a crucial role in this endeavor, implementing policies and promoting causes to safeguard wildlife. The increasing number of endangered species, largely due to adverse human activities, underscores the urgency of these conservation efforts. Therefore, it is incumbent upon us to support these entities in their mission to preserve endangered species and halt the extinction crisis. This collective effort will not only protect our wildlife but also secure a sustainable future for all.
+
+Evaluation: Overall Score: 4
+
+Feedback: 
+
+Your concluding statement was excellent. It effectively summarized the importance of wildlife conservation and the role of various entities in preserving endangered species. Your statement was clear, concise, and directly related to the information provided. You showed a deep understanding of the topic and presented a thoughtful reflection on the issue. 
+
+You did a great job of highlighting the urgency of conservation efforts due to the increasing number of endangered species and the negative effects of human activities. Your mention of the role of government agencies and independent nonprofit organizations in implementing policies and promoting causes to safeguard wildlife was also well articulated.
+
+Suggestions for Improvement:
+
+There's not much to improve upon as your answer was comprehensive and well-structured. However, you could consider adding a bit more about the specific actions that these entities are taking to preserve endangered species. This could provide a more detailed picture of their role in wildlife conservation. Keep up the good work!

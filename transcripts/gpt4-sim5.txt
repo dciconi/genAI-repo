@@ -1,0 +1,67 @@
+Learning Standard: CCSS.ELA-LITERACY.W.11-12.9 - 'Draw evidence from literary or informational texts to support analysis, reflection, and research.'
+Topic of Interest: space exploration
+
+Generated Question: Introduction and Context:
+
+Space exploration has been a topic of interest and debate for many years. It involves the discovery and exploration of celestial structures in outer space by means of evolving and growing space technology. The concept of space exploration is a huge topic that offers copious amounts of information about the universe around us. 
+
+Consider the following excerpt from an article titled "The Benefits and Drawbacks of Space Exploration":
+
+"Space exploration has brought with it numerous advances and changes to the world. Included in these changes are the significant impacts to America’s cultural landscape. Space exploration has created new markets and new technologies that have spurred our economy and changed our lives in many ways. This year, the United States is celebrating the 50th anniversary of the Apollo 11 moon landing, which marked a significant milestone in our country’s history. However, there are also many risks and challenges associated with space exploration. Some people argue that the money would be better spent on other things, and there are concerns about the safety of the astronauts who go on these missions."
+
+Free-Response Question:
+
+Based on the provided excerpt, what are some of the benefits and drawbacks of space exploration as presented by the author? Draw evidence from the text to support your analysis. Reflect on the author's viewpoint and discuss how this information contributes to the overall understanding of space exploration.
+Generated Rubric: Criteria        Level 4        Level 3       Level 2       Level 1
+---------------------------------------------------------
+Evidence Use    The student    The student   The student   The student
+                accurately     mostly        somewhat      struggles to
+                and            accurately    accurately    accurately
+                effectively    uses           uses          use
+                uses           evidence      evidence      evidence
+                evidence       from the      from the      from the
+                from the       text to       text to       text to
+                text to        support       support       support
+                support        their         their         their
+                their          analysis.     analysis.     analysis.
+                analysis.                    
+Points          4              3             2             1
+---------------------------------------------------------
+Reflection      The student    The student   The student   The student
+                provides a     provides a    provides a    struggles to
+                deep and       mostly        somewhat      provide a
+                insightful     insightful    insightful    insightful
+                reflection     reflection    reflection    reflection
+                on the         on the        on the        on the
+                author's       author's      author's      author's
+                viewpoint.     viewpoint.    viewpoint.    viewpoint.
+Points          4              3             2             1
+---------------------------------------------------------
+Understanding   The student    The student   The student   The student
+of the Topic    demonstrates   demonstrates  demonstrates  struggles to
+                a strong       a good        a basic       demonstrate
+                understanding  understanding understanding an
+                of space       of space      of space      understanding
+                exploration    exploration   exploration   of space
+                based on the   based on the  based on the  exploration
+                information    information   information   based on the
+                provided.      provided.     provided.     information
+                                                        provided.
+Points          4              3             2             1
+---------------------------------------------------------
+
+Student's Answer (level 3): The author presents a balanced view of the benefits and drawbacks of space exploration. On the positive side, the author mentions that space exploration has led to numerous advances and changes, including significant impacts on America's cultural landscape. This is evident in the celebration of the 50th anniversary of the Apollo 11 moon landing, a significant milestone in the country's history. The author also notes that space exploration has created new markets and technologies that have spurred the economy and changed lives in many ways.
+
+On the other hand, the author also acknowledges the risks and challenges associated with space exploration. There are concerns about the safety of the astronauts who undertake these missions. Additionally, some people argue that the funds used for space exploration could be better spent elsewhere.
+
+Reflecting on the author's viewpoint, it seems that while they acknowledge the benefits of space exploration, they also caution against overlooking the associated risks and costs. This balanced perspective contributes to a more nuanced understanding of space exploration, highlighting that while it has the potential for great benefits, it also comes with significant challenges. This understanding is crucial in making informed decisions about the future of space exploration.
+
+Evaluation: Overall, your answer scores a 12 out of 12. 
+
+In terms of evidence use, you accurately and effectively used evidence from the text to support your analysis. You drew directly from the text to highlight both the benefits and drawbacks of space exploration as presented by the author. 
+
+Your reflection on the author's viewpoint was deep and insightful. You not only summarized the author's viewpoint but also added your own interpretation, noting that the author presents a balanced view of space exploration. 
+
+Lastly, your understanding of the topic of space exploration is strong. You demonstrated this through your comprehensive analysis and reflection on the author's viewpoint. 
+
+Keep up the good work! Your answer was well-rounded and thorough. Continue to draw evidence from the text and provide insightful reflections on the author's viewpoint.
