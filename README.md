@@ -30,8 +30,8 @@ genAI’s primary function is to autonomously generate educational content based
 3. **AI Conversation Interface**: The core function **`chat_with_openai`** serves as an interface to communicate with the GPT model using OpenAI's chat-based API. It accepts a prompt, sends it to the AI, maintains a conversation history, and retrieves the AI's response.
 4. **Content Generation Functions**:
     - **`generate_question`**: Uses AI to produce a question.
-    - **`generate_rubric`**: Employs AI to create an evaluation rubric.
-    - **`evaluate_answer`**: Engages AI to evaluate the student's answer and provide feedback.
+    - **`generate_rubric`**: Uses AI to create an evaluation rubric.
+    - **`evaluate_answer`**: Uses AI to evaluate the student's answer and provide feedback.
 
 **Model Used:**
 The prototype will be tested in the **`gpt-3.5-turbo`** model, but it can easily be switched between other OpenAI’s models. This model is chosen because it offers a balance of performance and efficiency. It's particularly suited for tasks that require conversational back-and-forth, making it ideal for this application.
